@@ -1,0 +1,10 @@
+{
+  "work_duration": 25,
+  "short_break": 5,
+  "long_break": 15,
+  "rounds_before_long": 4,
+  "auto_start_breaks": true,
+  "auto_start_work": false,
+  "show_remaining": true,
+  "sound_enabled": true
+}
